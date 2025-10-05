@@ -1,0 +1,13 @@
+{
+  "componentVariants" : [ {
+    "id" : "f0cc4f5b-0b90-4bde-8db3-1a1d96c1a39d",
+    "propertyOverrides" : {
+      "isVisible" : true
+    },
+    "targetId" : "8a68adea-dde8-4691-b69a-cc1be60ecae4",
+    "type" : "componentVariant"
+  } ],
+  "developerName" : "Home_Ask_Button_Component",
+  "id" : "db54bdfb-3a26-412f-94c1-1d8c45253f00",
+  "type" : "experienceVariation"
+}
